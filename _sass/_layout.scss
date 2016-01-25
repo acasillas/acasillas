@@ -127,16 +127,23 @@ nav {
 
   a {
     height: 40px;
-    padding: 0 20px;
+    padding: 5px 10px 0;
     line-height: 40px;
     text-decoration: none;
     color: #000;
     font-weight: bold;
     display: inline-block;
-    font-size: 30px;
+
+    svg {
+      transform: scale(0.7);
+    }
 
     &.next {
       float: right;
+
+      svg {
+        transform: rotate(180deg);
+      }
     }
   }
 }
@@ -234,9 +241,33 @@ nav {
     }
     h2 {
       font-size: 22px;
+      a {
+        transition: color .3s ease;
+      }
     }
     .role {
       padding-left: 320px;
+      transition: color .3s ease;
+    }
+    &:hover {
+      h2 {
+        a {
+          color: #ccc;
+        }
+      }
+      .role {
+        color: #ccc;
+      }
+      li:hover {
+        h2 {
+          a {
+            color: #000;
+          }
+        }
+        .role {
+          color: #777;
+        }
+      }
     }
   }
   .cross-post-nav {
@@ -249,8 +280,8 @@ nav {
       width: 40px;
       line-height: 70px;
       text-align: center;
-      padding: 0;
       font-size: 40px;
+      padding: 0;
       background-color: rgba(255, 255, 255, 0.6);
       position: fixed;
       left: 0;
@@ -258,6 +289,10 @@ nav {
       margin-top: -50px;
       border: 1px solid #e0e0e0;
       border-width: 1px 1px 1px 0;
+
+      svg {
+        transform: scale(1);
+      }
 
       &.next {
         float: right;

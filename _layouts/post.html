@@ -11,10 +11,14 @@ layout: default
 
   <div class="cross-post-nav">
     {% if page.next.url %}
-      <a class="prev" href="{{page.next.url}}" title="{{page.next.title}}">&lsaquo;</a>
+      <a class="prev" href="{{page.next.url}}" title="{{page.next.title}}">
+        <svg height="30px" version="1.1" viewBox="0 0 512 512" width="30px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><polygon points="352,128.4 319.7,96 160,256 160,256 160,256 319.7,416 352,383.6 224.7,256 "/></svg>
+      </a>
     {% endif %}
     {% if page.previous.url %}
-      <a class="next" href="{{page.previous.url}}" title="{{page.previous.title}}">&rsaquo;</a>
+      <a class="next" href="{{page.previous.url}}" title="{{page.previous.title}}">
+        <svg height="30px" version="1.1" viewBox="0 0 512 512" width="30px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><polygon points="352,128.4 319.7,96 160,256 160,256 160,256 319.7,416 352,383.6 224.7,256 "/></svg>
+      </a>
     {% endif %}
   </div>
 
