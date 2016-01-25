@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<h1 class="dramatic">UX &amp; UI Designer</h1>
+
+<section class="work-index">
+  <header>Work</header>
+  <ul>
+    {% for post in site.posts %}
+    <li>
+      <h2>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      <p class="role">{{ post.role }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
