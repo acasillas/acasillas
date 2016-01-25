@@ -8,6 +8,7 @@
     <title>{% if page.title %}{{ site.title | escape }}: {{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   </head>
+
   <body {% if page.class %} class="{{ page.class }}"{% endif %}>
     <header class="main">
       <div class="wrap">
