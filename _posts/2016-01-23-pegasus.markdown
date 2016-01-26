@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Carbyne
+title:    Pegasus
 datespan: September 2001-2002
 role:     UX & UI Designer
 ---
