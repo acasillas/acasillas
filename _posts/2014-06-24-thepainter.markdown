@@ -1,6 +1,6 @@
 ---
 layout: post
-title:The Painter
+title: The Painter
 datespan: June 2014
 role: Branding
 ---
