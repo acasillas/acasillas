@@ -5,7 +5,7 @@ permalink: /about/
 class: about
 ---
 
-Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years of experience. 
+Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years of experience. I've been designing professionally since 2011, with expertise as a user experience designer for web-based applications, mobile and multi-touch devices since 2013. 
 
 ---
 
