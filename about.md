@@ -5,26 +5,38 @@ permalink: /about/
 class: about
 ---
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years of experience. 
 
 ---
 
 # Experience
 
-## Branding Designer
-<p class="place">Place where I worked</p>
-<p class="datespan">September 2001-2002</p>
+## UX & UI Designer
+<p class="place">Ooyala</p>
+<p class="datespan">August 2014 – Present</p>
 
-## Branding Designer
-<p class="place">Place where I worked</p>
-<p class="datespan">September 2001-2002</p>
+## UX & UI Designer
+<p class="place">Vertice</p>
+<p class="datespan">May 2014 - August 2014</p>
 
-## Branding Designer
-<p class="place">Place where I worked</p>
-<p class="datespan">September 2001-2002</p>
+## Branding and Web Designer
+<p class="place">Punto Asterisco</p>
+<p class="datespan">March 2014 – June 2014</p>
 
+## Branding
+<p class="place">COPO</p>
+<p class="datespan">October 2013 – June 2014</p>
+
+## Freelance Branding and Web Designer
+<p class="place">From Mexico and Canada</p>
+<p class="datespan">2011 – 2013</p>
 ---
 
 # Skills
 
-Simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+- superior skills with Photoshop/Illustrator
+- strong foundation in print design, branding, analog/digital printing
+- experience delivering desktop, mobile, and OTT solutions for multiple Media companies.
+- experience working with workflows/user flows, rapid prototyping, visual design and needfinding.
+- strong background working with fast-paced web and mobile companies
+- strong background working with video delivery solutions 
