@@ -1,5 +1,5 @@
-layout:   post
-title:    The Painter
+layout: post
+title:The Painter
 datespan: June 2014
 role: Branding
 ---
