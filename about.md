@@ -8,6 +8,16 @@ class: about
 Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years of experience. I've been designing professionally since 2011 with background in Branding, and with expertise as a user experience designer for web-based applications, mobile and multi-touch devices since 2013. I love to be able to layout the look and function of diferent parts of a design and to make that a whole.
 
 ---
+# Skills
+
+- superior skills with Photoshop/Illustrator
+- experience delivering desktop, mobile, and OTT solutions for multiple Media companies.
+- experience working with workflows/user flows, rapid prototyping, visual design and needfinding.
+- strong foundation in print design, branding, analog/digital printing
+- strong background working with fast-paced web and mobile companies
+- strong background working with video delivery solutions 
+
+
 
 # Experience
 
@@ -32,11 +42,4 @@ Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years
 <p class="datespan">2011 – 2013</p>
 ---
 
-# Skills
 
-- superior skills with Photoshop/Illustrator
-- experience delivering desktop, mobile, and OTT solutions for multiple Media companies.
-- experience working with workflows/user flows, rapid prototyping, visual design and needfinding.
-- strong foundation in print design, branding, analog/digital printing
-- strong background working with fast-paced web and mobile companies
-- strong background working with video delivery solutions 
