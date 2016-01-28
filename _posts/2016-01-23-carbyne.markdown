@@ -12,3 +12,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur eget li
 ## The problem
 
 Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
+
+## Design Stories
+
+Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
+
+## Users Task Flow
+
+Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
+
+## Wireframes
+
+Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
+
+## The Result
+
+Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
