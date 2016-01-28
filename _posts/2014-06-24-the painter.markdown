@@ -1,7 +1,7 @@
 layout:   post
 title:    The Painter
 datespan: June 2014
-role:     Branding
+role: Branding
 ---
 
 ## Outline
