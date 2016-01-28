@@ -1,14 +1,20 @@
 layout:   post
-title:    Find Way
-datespan: June 2013
-role:     UX & UI Designer, personal project
+title:    The Painter
+datespan: June 2014
+role:     Branding
 ---
 
 ## Outline
 
-Find Way is a bike app to make the cyclist ride a little more safe and fun. You can personalize your own routes and share them with other cyclists, you can share your route with friends or find someone who you could share with. You can also look for upcoming events and discounts for cyclist only. It will also provide you with a small wheater report. 
+The Painter is the branding project, my client was an independent contractor.
+For the development of this brand I have summed up 3 things.
 
-## The problem
+## The process
 
-Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
+For the development of this brand I have summed up 3 things.
 
+The concept behind the design of the brand was that just like in the old days, who did you call when you needed to fix something? the plumber, who did you call when you needed to fix your shoes? the shoemaker, Who did you call when you needed to paint your home? THE PAINTER. He’s the expert, he’s your paint dealer, he’ll fix it.
+
+## The Result
+
+My client was really happy with how the brand turned out and the project even got featured in [Branding Served](http://www.brandingserved.com/gallery/17927415/THE-PAINTER), Behance curated section of leading creatives. 
