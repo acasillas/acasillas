@@ -1,0 +1,14 @@
+---
+layout:   post
+title:    Find Way
+datespan: June 2013
+role:     UX & UI Designer, personal project
+---
+
+## Outline
+
+Find Way is a bike app to make the cyclist ride a little more safe and fun. You can personalize your own routes and share them with other cyclists, you can share your route with friends or find someone who you could share with. You can also look for upcoming events and discounts for cyclist only. It will also provide you with a small wheater report. 
+
+## The problem
+
+Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
