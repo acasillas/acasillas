@@ -12,3 +12,6 @@ Find Way is a bike app to make the cyclist ride a little more safe and fun. You 
 ## The problem
 
 Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
+
+
+![Con titulo](../images/1.0e-cbs-home-newsplanner-full.jpg "titulo")
