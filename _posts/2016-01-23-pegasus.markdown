@@ -13,3 +13,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur eget li
 
 Nullam non mi facilisis, semper nisi a, feugiat purus. Mauris a condimentum sem, tincidunt maximus ipsum. Duis porta molestie libero, efficitur pulvinar erat dapibus in.
 
+
+![Con titulo](../images/1.0e-cbs-home-newsplanner-full.jpg "titulo")
