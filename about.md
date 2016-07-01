@@ -13,15 +13,15 @@ Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years
 # Skills
 
 - superior skills with Photoshop/Illustrator
-- 
+
 - experience delivering desktop, mobile, and OTT solutions for multiple Media companies
-- 
+
 - experience working with workflows/user flows, rapid prototyping, visual design and needfinding
-- 
+
 - strong foundation in print design, branding, analog/digital printing
-- 
+ 
 - strong background working with fast-paced web and mobile companies
-- 
+
 - strong background working with video delivery solutions
 
 
