@@ -9,6 +9,7 @@ Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years
 
 
 ---
+
 # Skills
 
 - superior skills with Photoshop/Illustrator
