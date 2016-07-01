@@ -1,6 +1,6 @@
 ---
 layout:   post
-title:    Pegasus
+title:    PV3 App CMS
 datespan: September 2001-2002
 role:     UX & UI Designer
 ---
