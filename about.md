@@ -5,7 +5,8 @@ permalink: /about/
 class: about
 ---
 
-Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years of experience. I've been designing professionally since 2011 with background in Branding, and with expertise as a user experience designer for web-based applications, mobile and multi-touch devices since 2013. I love to be able to layout the look and function of diferent parts of a design and to make that a whole.
+Hello, my name is Andrea Casillas, I'm a multidisciplinary designer with 5 years of experience. I've been designing professionally since 2011 with a background in Branding, and with expertise as a user experience designer for web-based applications, mobile and multi-touch devices since 2013. I love to be able to layout the look and function of diferent parts of a design and to make that a whole. Currently a UX/UI  Designer part of the professional services organization at Ooyala, and developing different solutions and  designing innovative new consumer experiences delivering desktop, mobile, and OTT solutions for multiple Media companies.
+
 
 ---
 # Skills
