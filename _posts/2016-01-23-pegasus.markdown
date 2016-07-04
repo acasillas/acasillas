@@ -1,7 +1,7 @@
 ---
 layout:   post
 title:    PV3 App CMS
-datespan: January 2016 - Work in Progress
+datespan: May 2016 - Work in Progress
 role:     UX & UI Designer
 ---
 
